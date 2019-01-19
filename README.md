@@ -17,6 +17,7 @@ Delete any code in the script editor and paste in the code and file names in thi
 
 In the Script Editor click on Resources > Libraries… and in the ‘Add a library’
 field add the following libraries slecting the latest version:
+
 1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex – cUseful
 1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF – OAuth2 for Apps Script
 13FP5EWK7x2DASsiBXETcr0TQ07OCLEVWOoY1jbVR-bqVpFmsydUSXWdR – YouTube Data API
@@ -52,7 +53,7 @@ by running the setup function again and checking the Log and to see if channel d
 Using the Gmail and Youtube API, the script searches for unread email from subscribed youtube channels under a certain label, extract the video ID and it to the desired playlist.
 
 ## Google Quota
-Each API has a quota, the cost for each operation is mentioned in a comment
+Each API operation has a quota, the cost for each operation is mentioned in a comment
 
 ## Maintainers
 This project is mantained by:
